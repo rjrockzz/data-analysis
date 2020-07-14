@@ -31,9 +31,10 @@ descriptive statistics
 -----------------------
 ## 🔬 SciKit-Learn:<br>
 <br>
-• **Classification:** SVM, nearest neighbors, random forest, logistic regression, etc.<br>
-• **Regression:** Lasso, ridge regression, etc.<br>
-• **Clustering:** k-means, spectral clustering, etc.<br>
-• **Dimensionality reduction:** PCA, feature selection, matrix factorization, etc.<br>
-• **Model selection:** Grid search, cross-validation, metrics<br>
-• **Preprocessing:** Feature extraction, normalization<br>
+
+• **Classification**: SVM, nearest neighbors, random forest, logistic regression, etc.<br>
+• **Regression**: Lasso, ridge regression, etc.<br>
+• **Clustering**: k-means, spectral clustering, etc.<br>
+• **Dimensionality reduction**: PCA, feature selection, matrix factorization, etc.<br>
+• **Model selection**: Grid search, cross-validation, metrics<br>
+• **Preprocessing**: Feature extraction, normalization<br>
