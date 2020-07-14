@@ -1,6 +1,6 @@
 # ✊🏿 Data Analysis.
 Notes from Python for Data Analysis Authored by Wes McKinney.
-
+-------------------
 ### 🔬 SciPy:
 
 **scipy.integrate**:
@@ -27,3 +27,12 @@ mathematical functions, such as the gamma function
 Standard continuous and discrete probability distributions (density functions,
 samplers, continuous distribution functions), various statistical tests, and more
 descriptive statistics
+-----------------------
+## 🔬 SciKit-Learn:<br>
+
+• **Classification:** SVM, nearest neighbors, random forest, logistic regression, etc.
+• **Regression:** Lasso, ridge regression, etc.
+• **Clustering:** k-means, spectral clustering, etc.
+• **Dimensionality reduction:** PCA, feature selection, matrix factorization, etc.
+• **Model selection:** Grid search, cross-validation, metrics
+• **Preprocessing:** Feature extraction, normalization
