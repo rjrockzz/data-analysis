@@ -42,9 +42,9 @@ descriptive statistics
 -----------------------
 ## 🔬 Statsmodels:<br>
 <br>
-• **Regression models:** Linear regression, generalized linear models, robust linear
+• **Regression models**: Linear regression, generalized linear models, robust linear
 models, linear mixed effects models, etc.<br>
 • **Analysis of variance** (ANOVA)<br>
-• **Time series analysis:** AR, ARMA, ARIMA, VAR, and other models<br>
-• **Nonparametric methods:** Kernel density estimation, kernel regression<br>
+• **Time series analysis**: AR, ARMA, ARIMA, VAR, and other models<br>
+• **Nonparametric methods**: Kernel density estimation, kernel regression<br>
 • **Visualization of statistical model results**<br>
