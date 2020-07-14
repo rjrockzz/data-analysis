@@ -27,12 +27,13 @@ mathematical functions, such as the gamma function
 Standard continuous and discrete probability distributions (density functions,
 samplers, continuous distribution functions), various statistical tests, and more
 descriptive statistics
+
 -----------------------
 ## 🔬 SciKit-Learn:<br>
-
-• **Classification:** SVM, nearest neighbors, random forest, logistic regression, etc.
-• **Regression:** Lasso, ridge regression, etc.
-• **Clustering:** k-means, spectral clustering, etc.
-• **Dimensionality reduction:** PCA, feature selection, matrix factorization, etc.
-• **Model selection:** Grid search, cross-validation, metrics
-• **Preprocessing:** Feature extraction, normalization
+<br>
+• **Classification:** SVM, nearest neighbors, random forest, logistic regression, etc.<br>
+• **Regression:** Lasso, ridge regression, etc.<br>
+• **Clustering:** k-means, spectral clustering, etc.<br>
+• **Dimensionality reduction:** PCA, feature selection, matrix factorization, etc.<br>
+• **Model selection:** Grid search, cross-validation, metrics<br>
+• **Preprocessing:** Feature extraction, normalization<br>
